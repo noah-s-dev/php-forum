@@ -111,7 +111,7 @@ php-forum/
 1. **Download and Setup**
    ```bash
    # Clone or download the project
-   git clone <repository-url> php-forum
+   git clone https://github.com/noah-s-dev/php-forum.git
    cd php-forum
 
    # Set proper permissions
@@ -230,7 +230,7 @@ The system provides a solid foundation for forum development with modern securit
 ## 📄 License
 
 **License for RiverTheme**
-[RiverTheme.com](https://RiverTheme.com) makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
+RiverTheme makes this project available for demo, instructional, and personal use. You can ask for or buy a license from [RiverTheme.com](https://RiverTheme.com) if you want a pro website, sophisticated features, or expert setup and assistance. A Pro license is needed for production deployments, customizations, and commercial use.
 
 **Disclaimer**
 The free version is offered "as is" with no warranty and might not function on all devices or browsers. It might also have some coding or security flaws. For additional information or to get a Pro license, please get in touch with [RiverTheme.com](https://RiverTheme.com).
